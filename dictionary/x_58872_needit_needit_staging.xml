@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="NeedIt_Staging" max_length="40" name="x_58872_needit_needit_staging" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=N" label="N" max_length="40" name="u_n" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=SN" label="SN" max_length="40" name="u_sn" type="string"/>
+    </element>
+</database>
